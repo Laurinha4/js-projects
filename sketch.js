@@ -1,4 +1,4 @@
-r;
+let cor;
 let circuloX; // horizontal
 let circuloY; // vertical
 
